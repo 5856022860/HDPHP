@@ -4,8 +4,8 @@ define('DEBUG',True);
 //显示DEBUG面板
 define('DEBUG_TOOL',true);
 //指量创建模块
-define('MODULE_LIST','Index,Admin');
+// define('MODULE_LIST','Index,Admin');
 //应用目录
-define('APP_PATH','Application/');
+define('APP_PATH','App/');
 //引入框架
 require 'hdphp/hdphp.php';
