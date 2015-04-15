@@ -4,6 +4,7 @@ class IndexController extends Controller{
     //动作方法
     public function index(){
         //显示视图
-        $this->display();
+//         $this->display();
+            echo  123;
     }
 }
